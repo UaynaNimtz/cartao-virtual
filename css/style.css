@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2? família = Chilanka & display = trocar ');
+@import url('https://fonts.googleapis.com/css2? família = Montserrat + Alternativas: ital, peso @ 0,100; 0,200; 0,300; 0,400; 0,500; 0,600; 0,700; 0,800; 0,900; 1,100; 1,200; 1,300; 1,400; 1,500; 1,600; 1,700; 1,800; 1,900 & display = troca ');
+
+html,body {
+  margin: 100px auto;
+  padding: 0px auto;
+  
+}
+
+.cartao{
+	text-align: center;
+	padding: 30px 30px 30px 30px;
+	border-radius: 50px;
+}
+
+.foto{
+	margin: 20px auto;
+	margin: auto;
+}
+
+.nome{
+	font-family: 'Chilanka', cursiva;
+	font-size: 20px;
+	color: #79a4ad;
+}
+
+a{
+	border-radius: 30px;
+	font-family: 'Montserrat Alternates', sans-serif;  
+  	font-size: 14px;
+  	color: #d8d9d5;
+  	background-color: #79a4ad;
+  	margin: 15px 0 0 0;
+  	text-decoration: none;
+  	padding: 10px 10px 10px 10px;
+}
